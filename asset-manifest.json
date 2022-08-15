@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jlultimate.github.io/reacteasy/static/css/main.f46a5064.css",
+    "main.js": "/jlultimate.github.io/reacteasy/static/js/main.ed41130d.js",
+    "static/js/787.d3befce1.chunk.js": "/jlultimate.github.io/reacteasy/static/js/787.d3befce1.chunk.js",
+    "index.html": "/jlultimate.github.io/reacteasy/index.html",
+    "main.f46a5064.css.map": "/jlultimate.github.io/reacteasy/static/css/main.f46a5064.css.map",
+    "main.ed41130d.js.map": "/jlultimate.github.io/reacteasy/static/js/main.ed41130d.js.map",
+    "787.d3befce1.chunk.js.map": "/jlultimate.github.io/reacteasy/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f46a5064.css",
+    "static/js/main.ed41130d.js"
+  ]
+}
